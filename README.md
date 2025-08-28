@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hamza Acar</h1>
 <h3 align="center">I'm a 2nd-year Biomedical Engineering student at Yildiz Technical University</h3>
 
-- 🌱 I’m currently learning **Large Language Models, Python for AI, and Signal Processing**
+- I’m currently learning **Large Language Models, Python for AI, and Signal Processing**
 
-- 📫 How to reach me: **hamza.acar@std.yildiz.edu.tr**
+- How to reach me: **hamza.acar@std.yildiz.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
