@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza Acar</h1>
-<h3 align="center">🎓 2nd-year Biomedical Engineering student at Yildiz Technical University</h3>
+<h1 align="center">Hi, I'm Hamza Acar</h1>
+<h3 align="center">I'm a 2nd-year Biomedical Engineering student at Yildiz Technical University</h3>
 
 - 🌱 I’m currently learning **Large Language Models, Python for AI, and Signal Processing**
 
